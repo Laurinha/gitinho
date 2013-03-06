@@ -1,1 +1,3 @@
-Edição do ficheiro de texto para enviar um push e commit para o branch principal.
+O FRAGA E O MAIOR! Ass: Laura e Hugo
+
+Edicao do ficheiro de texto para enviar um push e commit para o branch principal.
