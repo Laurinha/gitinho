@@ -1,4 +1,4 @@
-o Controlo de versões é uma mer**
+o Controlo de versões é lindo
 Git
 
 Edicao do ficheiro de texto para enviar um push e commit para o branch principal.
