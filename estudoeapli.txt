@@ -1,3 +1,4 @@
-a beatriz é uma pu** xD
+Controlo de versões
+Git
 
 Edicao do ficheiro de texto para enviar um push e commit para o branch principal.
